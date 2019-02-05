@@ -6,7 +6,7 @@ from gprofiler import gprofiler
 import pandas as pd
 
 # The revigo analysis code was obtained from scrape_revigo.py, hosted at https://gist.github.com/SamDM/b7e8a13a5529c24291e293ee6ebe2366
-# I added this code here just to show an example. Please visit the github page to get more details about the code
+# The code was added here to show an example. Please visit the reffered github page to get more details about the code
 def Revigo_ana(Go_string):
     from robobrowser import RoboBrowser
     import re
